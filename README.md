@@ -2,4 +2,4 @@
 
 The code for this work will be released upon acceptance.
 
- ![Overall Framework](Overall%20Framework.png)
+ ![Overall Framework](Overall%20overview.png)
